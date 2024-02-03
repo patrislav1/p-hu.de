@@ -7,6 +7,7 @@ plugins:
   - search
   - blog:
       blog_dir: .
+
 theme:
   name: material
   language: en # The language your site is written in
@@ -28,6 +29,15 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Dark mode
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 
 extra:
   social:
