@@ -10,4 +10,6 @@ categories:
 This is my contribution to the current [#AntifaSticker](https://chaos.social/tags/AntifaSticker) meme.
 Made with GIMP. Enjoy.
 
+<!-- more -->
+
 ![Antifa sticker with Tux](linux-antifa.png)

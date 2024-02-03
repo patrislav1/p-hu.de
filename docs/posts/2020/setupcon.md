@@ -11,6 +11,8 @@ the prompt looks good in a graphical terminal emulator, but will probably look g
 
 There is a special [bitmap-based powerline font](https://github.com/powerline/fonts/tree/master/Terminus/PSF) suitable for the framebuffer console. On some systems the console setup tool `setupcon` is buggy and has to be patched in order to enable loading a custom font.
 
+<!-- more -->
+
 * Download bitmap font from [powerline repository](https://github.com/powerline/fonts/tree/master/Terminus/PSF)
 
 * Copy the `ter-powerline-*.psf.gz` files to `/usr/share/consolefonts`
