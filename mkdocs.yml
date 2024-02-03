@@ -1,0 +1,12 @@
+site_name: patrislav's blog
+site_author: Patrick Huesmann <patrick@p-hu.de>
+site_url: https://www.p-hu.de
+copyright: Copyright 2024 Patrick Huesmann
+
+plugins:
+  - search
+  - blog:
+      blog_dir: .
+theme:
+  name: material
+  language: en # The language your site is written in
