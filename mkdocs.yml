@@ -1,10 +1,12 @@
 site_name: patrislav's blog
 site_author: Patrick Huesmann <patrick@p-hu.de>
 site_url: https://www.p-hu.de
-copyright: Copyright 2024 Patrick Huesmann
-
+copyright: © 2024 Patrick Huesmann. This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 plugins:
   - search
+  - glightbox:
+      auto_caption: true
+      background: black
   - blog:
       blog_dir: .
 

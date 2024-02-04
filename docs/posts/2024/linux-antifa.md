@@ -2,7 +2,6 @@
 date: 2024-01-23
 categories:
   - linux
-  - politics
 ---
 
 # Linux User Antifa
