@@ -2,12 +2,17 @@
 date: 2023-03-10
 categories:
   - photography
+tags:
+  - horizon202
+  - fp4+
+  - hamburg
 ---
 
 # Photowalk with Horizon 202
 
-<!-- more -->
 Shots from a little photo walk in Hamburg; only two shots came out, both in a metro station.
+
+<!-- more -->
 
 Horizon 202, Ilford FP4+, dev/scan by [meinfilmlab](https://www.meinfilmlab.de/)
 
