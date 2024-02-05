@@ -4,6 +4,9 @@ site_url: https://www.p-hu.de
 copyright: © 2024 Patrick Huesmann. This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 plugins:
   - search
+  - privacy
+  - tags:
+      tags_file: tags.md
   - glightbox:
       auto_caption: true
       background: black
