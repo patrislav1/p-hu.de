@@ -1,5 +1,6 @@
 site_name: patrislav's blog
 site_author: Patrick Huesmann <patrick@p-hu.de>
+site_description: patrislav's blog
 site_url: https://www.p-hu.de
 copyright: © 2024 Patrick Huesmann. This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 plugins:
@@ -12,6 +13,13 @@ plugins:
       background: black
   - blog:
       blog_dir: .
+  - rss:
+      match_path: posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags 
 
 theme:
   name: material
@@ -54,4 +62,6 @@ extra:
       link: https://www.instagram.com/patrickhuesmann/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/patrickhuesmann/
+    - icon: fontawesome/solid/rss
+      link: https://www.p-hu.de/feed_rss_created.xml
 

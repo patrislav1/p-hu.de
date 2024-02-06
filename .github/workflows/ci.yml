@@ -26,9 +26,9 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - name: Install mkdocs
-        run: pip install mkdocs-material mkdocs-localsearch mkdocs-glightbox 
+        run: pip install mkdocs-material mkdocs-rss-plugin mkdocs-glightbox 
       - name: Build site
         run: mkdocs build
       - name: rsync over SSH
-        run: rsync -r ./site/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.RSYNC_PATH }}/
+        run: rsync -r --delete ./site/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.RSYNC_PATH }}/
 

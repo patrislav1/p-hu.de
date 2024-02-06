@@ -7,7 +7,7 @@ This is the source code for my personal blog
 ## Requirements
 
 ```sh
-pip3 install mkdocs-material mkdocs-localsearch mkdocs-glightbox
+pip3 install mkdocs-material mkdocs-rss-plugin mkdocs-glightbox
 ```
 
 ## serve locally
