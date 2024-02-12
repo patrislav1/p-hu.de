@@ -19,18 +19,24 @@ at high speed and died on the spot. He didn't have a chance.
 Here in Hamburg there are similar memorial services with "die-ins" and ghostbikes several times a year.
 Cyclists are killed constantly here - which is unsurprising, considering Hamburg's car-centric traffic planning
 & transport politics, poor infrastructure, and on the motorists' side a mix of stress, impatience
-and contempt for vulnerable road users.
+and contempt for other road users.
 
 What makes Mandalka's killing special (I refuse to call it an *accident* for reasons cited below),
-and spawned dozens of spontaneous demonstrations and multiple "rides of silence" across the country,
+and spawned dozens of spontaneous demonstrations and "rides of silence" across the country,
 is that he spent his life fighting for equal rights for cyclists, documenting dangerous spots,
 being mobbed by motorists (esp. through "punishment passes", a.k.a. being overtaken without
 due safety distance) - and repeatedly being ignored and dismissed by police and authorities in spite of
 his meticulous documentation.
 
-He was mobbed and laughed at by the very institutions who were supposed to protect him and his rights
-as a fellow road user, and in a twist of the most cruel and bitter irony, he was finally killed
+He didn't ask for special treatment, he only insisted that existing traffic rules be enforced.
+He was mobbed and laughed at by the very institutions who were supposed to protect him -
+and in a twist of most cruel and bitter irony, he was finally killed
 on the same road about whose danger he had warned for years.
+
+When the newspapers ran articles about Mandalka's death, there were hateful letters from readers claiming
+that he only got what was coming to him. - UPDATE: People who were at the "ride of silence" at the location in Pforzheim
+reported being harassed by passing drivers, and on the very next day after the ghostbike was erected,
+the memorial site was already vandalized.
 
 ## There Are No Accidents
 
