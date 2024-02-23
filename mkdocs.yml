@@ -65,3 +65,5 @@ extra:
     - icon: fontawesome/solid/rss
       link: https://www.p-hu.de/feed_rss_created.xml
 
+extra_css:
+  - stylesheets/glightbox-extra.css
