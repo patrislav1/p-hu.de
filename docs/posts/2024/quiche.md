@@ -11,7 +11,7 @@ Ich mache Quiche jedes Mal ein wenig anders; da sie heute besonders gut geworden
 
 <!-- more -->
 
-Der Boden braucht i.d.R. länger als die Oberseite, um durch zu sein -
+Der Boden braucht i.d.R. länger als die Oberseite, bis er gut durch ist -
 manche empfehlen deshalb, den Teig "blind zu backen" bevor man die Füllung hinzufügt.
 Das ist mir zuviel Aufwand; ich bevorzuge das "selektiv backen" durch Umschalten auf Unterhitze. 😎
 
@@ -59,7 +59,7 @@ Die Karotten auf den Teig geben und gleichmäßig verteilen.
 Darüber die Champignon-Lauch-Mischung verteilen.
 
 In der frei gewordenen Schüssel 3 Eier aufschlagen & zusammen mit der Sahne verrühren.
-1-2 EL Stärke hineinrühren (damit die Masse gut stockt und nicht tlw. flüssig bleibt).
+1-2 EL Stärke hineinrühren (damit die Masse im Ofen gut stockt und nicht tlw. flüssig bleibt).
 Großzügig mit Salz, Pfeffer & Kräuter der Provence würzen und über das Gemüse gießen.
 
 Zuletzt die Quiche mit den Paprikastreifen und Pinienkernen garnieren. Danach in den heißen Ofen
